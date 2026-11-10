@@ -1,0 +1,23 @@
+.profile-card {
+  border: 1px solid #000000;
+  border-radius: 12px;
+  padding: 20px;
+  margin: 20px 0;
+  background: #741818fb;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.06);
+  color:rgb(248, 225, 225);
+}
+
+.profile-card h2 {
+  margin-top: 0;
+  color: #ffff;
+}
+
+.tag {
+  display: inline-block;
+  padding: 6px 10px;
+  border-radius: 20px;
+  background: #f2e8ec77;
+  color: black;
+  font-size: 0.85rem;
+}
